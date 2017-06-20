@@ -4,7 +4,7 @@
 #define PAN_PIN 9
 #define TILT_PIN 10
 
-#define BAUD 9600
+#define BAUD 115200
 
 #define LED_PIN 13
 
