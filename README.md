@@ -3,10 +3,12 @@
 Arduino Nano firmware to be used with the [OctoPrint-PanTilt-Nano](https://github.com/c-devine/OctoPrint-PanTilt-Nano) project.
 
 ## Snapshots
-<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/webcam.png?raw=true">
-<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/nano.png?raw=true">
-<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/harness.png?raw=true">
-<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/case.png?raw=true">
+
+<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/webcam.png?raw=true" width="320" height="240">
+<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/nano.png?raw=true" width="320" height="240">
+<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/harness.png?raw=true" width="320" height="240">
+<img src="https://raw.githubusercontent.com/c-devine/OctoPrint-PanTilt-Nano-Firmware/snapshots/assets/img/case.png?raw=true" width="320" height="240">
+
 
 ## Setup
 
