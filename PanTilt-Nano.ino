@@ -1,5 +1,6 @@
 #include "Arduino.h"
-#include "PanTilt.h"
+#include "PanTilt-Nano.h"
+#include "EEPROM.h"
 #include "Servo.h"
 #include "SettingsManager.h"
 #include "Led.h"

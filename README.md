@@ -12,6 +12,6 @@ Arduino Nano firmware to be used with the [OctoPrint-PanTilt-Nano](https://githu
 
 ## Setup
 
-avrdude -patmega328p -carduino -PCOMX -b57600 -Uflash:w:PanTilt-Nano-1.0.0.hex:i 
+avrdude -patmega328p -carduino -PCOMX -b57600 -D -Uflash:w:PanTilt-Nano-1.0.0.hex:i 
 
 
